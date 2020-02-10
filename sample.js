@@ -1,1 +1,3 @@
-\\test.js
+function sample() {
+	alert("hello world")
+}
