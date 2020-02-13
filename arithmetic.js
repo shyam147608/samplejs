@@ -1,3 +1,4 @@
+/*
 function p(stuff)
 {
     document.write(stuff + "<br>")
@@ -31,3 +32,4 @@ var mm = -m;
 
 p("negative " + n + " = " + nn); // prints -1
 p("negative " + m + " = " + mm); // prints 1
+*/
